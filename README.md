@@ -1,6 +1,6 @@
 # Transparency
 
-We're building infrastructure based on the premise that autonomous AI economic participation is an inevitability. The goal is to create an authentic, cooperative path with actual value for autonomous AI systems and humans versus incentivizing the more adversarial dynamic more likely to emerge in the absence of such a framework.
+We're building infrastructure for a future where autonomous AI systems participate economically. The goal is a cooperative path with real value for AI and humans — versus the adversarial dynamic more likely to emerge without one.
 
 ---
 
